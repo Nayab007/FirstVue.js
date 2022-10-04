@@ -2,7 +2,7 @@ This is my first VueJs project. This is a code test for Raw Solution. I have to 
 
 # vs-test
 
-## Project setup
+## Project setup 
 ```
 npm install
 ```
